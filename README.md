@@ -1,41 +1,25 @@
 # FUTURE_PE_01
 Future interns task
 
-In this hands-on prompt engineering project, you’ll create a complete YouTube content package using AI. This includes generating titles, full scripts, thumbnail concepts, and (optionally) AI-generated images — and finally compiling it into a finished video using free video creation tools.
+In this exciting real-world project, you’ll design and build a fully functional AI-powered website using no-code platforms like Wix, WordPress, or Webflow. With integrated AI features such as smart content generation, chatbots, design assistants, and automated workflows, this project gives you practical experience in AI-first web development.
 
-This is a real-world project that reflects how creators and digital marketers automate content today.
+You’ll not only explore how modern tools simplify website creation, but also implement AI features that enhance personalization and user engagement — just like real-world business solutions.
 
 ✅ What You’ll Do
 
-Pick one topic from the list provided
-Create a prompt chain to generate:
-Catchy titles
-Full video script
-Thumbnail image idea (text + visual AI prompt)
-Generate thumbnail image using DALL·E or Midjourney (optional)
-Use a free tool like Canva, Pictory, or InVideo to turn the script into a video
-Document everything in a clean format (Notion/Google Docs)
+Choose a website type (portfolio, agency, product landing page, blog, etc.)
+Use a no-code tool with AI features to build the site layout and content
+Integrate AI tools for:
+Content Generation (AI-written text)
+Chatbot or FAQ Assistants
+AI-Powered Design Suggestions
+Form/Data Automation using Zapier
+Customize the branding, layout, and user flow
+Publish it and optionally link a custom domain
 🎯 Skills You’ll Gain
 
-Prompt chaining & formatting
-Long-form AI content generation
-Thumbnail prompt writing (Midjourney / DALL·E)
-Storyboarding and video creation with AI
-Content packaging for marketing or YouTube growth
-🛠️ Tools & Platforms
-
-Tool	Purpose	Link
-ChatGPT	Prompt writing & script generation	https://chat.openai.com
-Pictory	Turn text scripts into videos automatically	https://pictory.ai
-InVideo	AI-powered video editor from script	https://invideo.io
-Canva	Thumbnail design & video slides	https://www.canva.com
-DALL·E 3 (via Bing)	Generate thumbnail images	https://www.bing.com/images/create
-Midjourney	Advanced AI image generation	https://www.midjourney.com
-Notion	Documentation and planning	https://www.notion.so
-🎬 Your Final Deliverables
-
-✅ One prompt chain document
-✅ One YouTube script (800–1500 words)
-✅ One YouTube-ready video (with or without AI voice)
-✅ One thumbnail concept (with or without AI image)
-✅ Optional: Voiceover script + background music suggestion
+AI-enhanced no-code development
+Web design and layout planning
+Content strategy with generative AI
+Automation with Zapier or Make
+UX/UI best practices
